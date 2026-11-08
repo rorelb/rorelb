@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "login": "rorelb",
+  "seed": "#5B342B",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "",
+    "subtitle": "I build interfaces and small useful tools.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Earth"
+      },
+      {
+        "icon": "code",
+        "label": "TypeScript · Python"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Vibecoder"
+      },
+      {
+        "icon": "language",
+        "label": "random idk"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material 3 Expressive"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:opencode",
+            "label": "OpenCode"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      },
+      {
+        "title": "AI",
+        "items": [
+          {
+            "icon": "brand:claude",
+            "label": "Claude Sonnet 5.5"
+          },
+          {
+            "icon": "brand:deepseek",
+            "label": "DeepSeek V4.1 Flash"
+          },
+          {
+            "icon": "brand:zola",
+            "label": "GLM 5.3"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "rorelb.github.io"
+    ],
+    "overrides": {
+      "rorelb.github.io": {
+        "icon": "language"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "rorolb.runs-on.dev",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/rorelb?tab=repositories",
+        "style": "tonal"
+      },
+      {
+        "icon": "brand:telegram",
+        "label": "Telegram",
+        "url": "https://rorelb.t.me",
+        "style": "tonal"
+      },
+      {
+        "icon": "brand:tiktok",
+        "label": "TikTok",
+        "url": "https://tiktok.com/@rorelb",
+        "style": "tonal"
+      }
+    ]
+  }
+}
