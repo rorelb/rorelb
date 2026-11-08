@@ -8,8 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-<a href="https://github.com/rorelb/rorelb.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-rorelb-github-io-dark.svg"><img src="assets/project-rorelb-github-io-light.svg" width="49%" alt="rorelb.github.io"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
